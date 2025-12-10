@@ -1,4 +1,8 @@
 this  is my new code please add the changes to this 
 
+<<<<<<< HEAD
 
 this for the commit changes
+=======
+this is the fifth one
+>>>>>>> five-branch
